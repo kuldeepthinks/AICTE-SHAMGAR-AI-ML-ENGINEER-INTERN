@@ -18,6 +18,20 @@ This repository contains all my official internship tasks, workshop participatio
 ## 📘 Internship Tasks
 
 ### 🧠 Task 1 – Fake Certificate or Document Verification
+## 💡 Problem Scenarios (Choose Any One)
+
+| # | Problem Scenario |
+|---|------------------|
+| 1 | Healthcare Appointment Bottlenecks |
+| 2 | Skill Gap in College Graduates |
+| 3 | E-commerce Return Fraud Detection |
+| 4 | Manual Resume Screening |
+| 5 | Crop Health Monitoring for Farmers |
+| 6 | Medicine Expiry & Stock Management in Pharmacies |
+| 7 | Traffic Congestion in Smart Cities |
+| 8 | Fake Certificate or Document Verification |
+| 9 | Customer Complaint Prioritization |
+| 10 | Mental Health Chat Support System |
 **Type:** Handwritten submission  
 **Objective:** To design a real-world problem solution using technology-based thinking.  
 **Description:** Proposed an AI-based verification system using blockchain and OCR for detecting fake or tampered educational certificates.  
@@ -26,6 +40,27 @@ This repository contains all my official internship tasks, workshop participatio
 ---
 
 ### 💬 Task 2 – SMS Spam Detection (Machine Learning)
+## 📋 AI/ML Internship Task Overview
+
+Each intern must complete **at least one task within one month**.  
+Below is the official task structure provided by Shamgar Software Solutions (AICTE-approved).
+
+| # | Task Title | Objective | Deliverables | Key Skills |
+|---|-------------|------------|---------------|-------------|
+| 1 | **Data Collection & Cleaning** | Collect raw datasets (Kaggle or company data) and clean using Python. | Cleaned CSV + Notebook | Data Wrangling, Preprocessing |
+| 2 | **Exploratory Data Analysis (EDA)** | Visualize and summarize datasets. | EDA Report + Visuals | Matplotlib / Plotly, Statistics |
+| 3 | **Linear Regression Model** | Predict numeric values using regression models. | Model + Metrics Report | Regression, Scikit-learn |
+| 4 | **Classification Model (Logistic/SVM)** | Predict binary outcomes (e.g., spam/ham). | Model + Confusion Matrix | Supervised ML |
+| 5 | **Feature Engineering** | Create and transform new features. | Feature Importance + Notebook | Encoding, Normalization |
+| 6 | **Decision Tree / Random Forest** | Compare model accuracy using ensemble methods. | Model Comparison + Visualization | Ensemble Learning |
+| 7 | **Model Deployment** | Deploy ML models using Flask or Streamlit. | Working App / Video Demo | Flask / Streamlit Deployment |
+| 8 | **Sentiment Analysis (NLP)** | Analyze text sentiments from real-world data. | Notebook + Word Cloud | NLP, TF-IDF, Text Processing |
+
+---
+
+> ✅ *I completed Task 4 – Classification Model (SMS Spam Detection)*  
+> 📘 [View My Notebook Here](https://colab.research.google.com/drive/your-colab-link-here)
+> 
 **Type:** Google Colab Notebook (.ipynb)  
 **Objective:** Build and train a machine learning model to detect spam SMS messages using NLP.  
 **Technologies:** Python, Scikit-learn, Pandas, TF-IDF, Logistic Regression  
