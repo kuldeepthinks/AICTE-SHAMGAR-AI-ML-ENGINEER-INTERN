@@ -17,10 +17,10 @@ This repository contains all my official internship tasks, workshop participatio
 
 ## 📘 Internship Tasks
 
-### 🧠 Task 1 – Fake Certificate or Document Verification
-## 💡 Problem Scenarios (Choose Any One)
+### 🧠 Task 1 – Real-World Solution Design Exercise (For Batch 2 / Level 2)
 
-| # | Problem Scenario |
+
+| ## | 💡 Problem Scenarios (Choose Any One)|
 |---|------------------|
 | 1 | Healthcare Appointment Bottlenecks |
 | 2 | Skill Gap in College Graduates |
@@ -32,6 +32,7 @@ This repository contains all my official internship tasks, workshop participatio
 | 8 | Fake Certificate or Document Verification |
 | 9 | Customer Complaint Prioritization |
 | 10 | Mental Health Chat Support System |
+> ✅ *I completed Fake Certificate or Document Verification*  
 **Type:** Handwritten submission  
 **Objective:** To design a real-world problem solution using technology-based thinking.  
 **Description:** Proposed an AI-based verification system using blockchain and OCR for detecting fake or tampered educational certificates.  
@@ -39,13 +40,11 @@ This repository contains all my official internship tasks, workshop participatio
 
 ---
 
-### 💬 Task 2 – SMS Spam Detection (Machine Learning)
-## 📋 AI/ML Internship Task Overview
+### 💬 Task 2 –  AI/ML Internship Task 
+Below is the official task structure provided by **Shamgar Software Solutions (AICTE-Approved)**.  
+Each intern must complete **at least one task within one month**.
 
-Each intern must complete **at least one task within one month**.  
-Below is the official task structure provided by Shamgar Software Solutions (AICTE-approved).
-
-| # | Task Title | Objective | Deliverables | Key Skills |
+| ## | Task Title | Objective | Deliverables | Key Skills |
 |---|-------------|------------|---------------|-------------|
 | 1 | **Data Collection & Cleaning** | Collect raw datasets (Kaggle or company data) and clean using Python. | Cleaned CSV + Notebook | Data Wrangling, Preprocessing |
 | 2 | **Exploratory Data Analysis (EDA)** | Visualize and summarize datasets. | EDA Report + Visuals | Matplotlib / Plotly, Statistics |
@@ -58,14 +57,12 @@ Below is the official task structure provided by Shamgar Software Solutions (AIC
 
 ---
 
-> ✅ *I completed Task 4 – Classification Model (SMS Spam Detection)*  
-> 📘 [View My Notebook Here](https://colab.research.google.com/drive/your-colab-link-here)
-> 
-**Type:** Google Colab Notebook (.ipynb)  
-**Objective:** Build and train a machine learning model to detect spam SMS messages using NLP.  
-**Technologies:** Python, Scikit-learn, Pandas, TF-IDF, Logistic Regression  
-📘 [Open Google Colab Notebook](https://colab.research.google.com/drive/1r2q718wTUARKp63Gil2LY88Foqdn7yy4?usp=sharing)  
-📁 [View PDF](https://github.com/<your-username>/Shamgar-AI-ML-Engineer-Intern/blob/main/Task2_SMS_Spam_Detection_KuldeepPandey.ipynb)
+> ✅ *I completed Task 4 – Classification Model (SMS Spam Detection - Machine Learning )*  
+> **Type:** Google Colab Notebook (.ipynb)  
+> **Objective:** Build and train a machine learning model to detect spam SMS messages using NLP.
+> **Technologies:** Python, Scikit-learn, Pandas, TF-IDF, Logistic Regression  
+> 📘 [View My Google Colab Notebook Here](https://colab.research.google.com/drive/1r2q718wTUARKp63Gil2LY88Foqdn7yy4?usp=sharing)  
+> 📁 [View PDF](https://github.com/<your-username>/Shamgar-AI-ML-Engineer-Intern/blob/main/Task2_SMS_Spam_Detection_KuldeepPandey.ipynb)
 
 ---
 
