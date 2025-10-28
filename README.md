@@ -37,7 +37,7 @@ This repository contains all my official internship tasks, workshop participatio
 ## 🏆 Workshop Certificates
 | Workshop Title | Certificate Link |
 |----------------|------------------|
-| 🧩 AI & ML Orientation Session | [View Certificate](https://drive.google.com/your-certificate1-link) |
+| 🧩 AI & ML Orientation Session | [View Certificate](https://drive.google.com/file/d/18hE58HPxMLFZAerNbK0chCeQNudfnR01/view?usp=sharing) |
 | 🔍 Machine Learning Model Building & Deployment | [View Certificate](https://drive.google.com/your-certificate2-link) |
 | 📊 Data Preprocessing & Visualization Masterclass | [View Certificate](https://drive.google.com/your-certificate3-link) |
 | 🤝 Internship Completion Certificate | [View Certificate](https://drive.google.com/your-certificate4-link) |
