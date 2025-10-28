@@ -57,7 +57,7 @@ This internship helped me gain hands-on experience in:
 ## 🔗 Connect With Me
 - **Email:** kuldeep9838003408@gmail.com  
 - **LinkedIn:** [Kuldeep Pandey](https://linkedin.com/in/your-profile)  
-- **GitHub:** [Kuldeeep](https://github.com/your-username)
+- **GitHub:** [Kuldeeep](https://github.com/kuldeepthinks)
 
 ---
 
