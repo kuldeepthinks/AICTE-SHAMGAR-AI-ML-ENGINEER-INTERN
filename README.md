@@ -29,8 +29,8 @@ This repository contains all my official internship tasks, workshop participatio
 **Type:** Google Colab Notebook (.ipynb)  
 **Objective:** Build and train a machine learning model to detect spam SMS messages using NLP.  
 **Technologies:** Python, Scikit-learn, Pandas, TF-IDF, Logistic Regression  
-📘 [Open Google Colab Notebook](https://colab.research.google.com/drive/your-colab-link-here)  
-📁 [View on GitHub](https://github.com/<your-username>/Shamgar-AI-ML-Engineer-Intern/blob/main/Task2_SMS_Spam_Detection_KuldeepPandey.ipynb)
+📘 [Open Google Colab Notebook](https://colab.research.google.com/drive/1r2q718wTUARKp63Gil2LY88Foqdn7yy4?usp=sharing)  
+📁 [View PDF](https://github.com/<your-username>/Shamgar-AI-ML-Engineer-Intern/blob/main/Task2_SMS_Spam_Detection_KuldeepPandey.ipynb)
 
 ---
 
