@@ -9,7 +9,7 @@ This repository contains all my official internship tasks, workshop participatio
 **Name:** Kuldeep Pandey  
 **Role:** AI/ML Engineer Intern  
 **Internship Duration:** October 2025 – November 2025  
-**Batch:** Level 2  
+**Batch:** Currently at Level 2  
 **Institution:** Shri Ramswaroop Memorial University (SRMU), Lucknow  
 **AICTE Internship Portal:** [AICTE Internship Portal](https://internship.aicte-india.org/)
 
