@@ -8,7 +8,7 @@ This repository contains all my official internship tasks, workshop participatio
 ## 👨‍💻 Intern Information
 **Name:** Kuldeep Pandey  
 **Role:** AI/ML Engineer Intern  
-**Internship Duration:** October 2025 – November 2025  
+**Internship Duration:** 1 October 2025 – 1 March 2026 (5 Months : including all levels)  
 **Batch:** Currently at Level 2  
 **Institution:** Shri Ramswaroop Memorial University (SRMU), Lucknow  
 **AICTE Internship Portal:** [AICTE Internship Portal](https://internship.aicte-india.org/)
