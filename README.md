@@ -67,12 +67,13 @@ Each intern must complete **at least one task within one month**.
 ---
 
 ## 🏆 Workshop Certificates
-| Workshop Title | Certificate Link |
-|----------------|------------------|
-| 🧩 Solution Architecture Workshop | [View Certificate](https://drive.google.com/file/d/18hE58HPxMLFZAerNbK0chCeQNudfnR01/view?usp=sharing) |
-| 🔍 Machine Learning Model Building & Deployment | [View Certificate](https://drive.google.com/your-certificate2-link) |
-| 📊 Data Preprocessing & Visualization Masterclass | [View Certificate](https://drive.google.com/your-certificate3-link) |
-| 🤝 Internship Completion Certificate | [View Certificate](https://drive.google.com/your-certificate4-link) |
+| Workshop No. | Workshop Title                                         | Certificate Link |
+|--------------|------------------------------------------------------  |------------------|
+| 1            | 🧩 Solution Architecture Workshop                     | [View Certificate](https://drive.google.com/file/d/18hE58HPxMLFZAerNbK0chCeQNudfnR01/view?usp=sharing) |
+| 2            | 🔍 Mastering Communication & Interview Confidence     | [View Certificate](https://drive.google.com/file/d/1ACJDWtW7w5HVhPnyk6jDRloe1gdFFpFF/view?usp=drive_link) |
+| 3            | 📊 AI Tools & Industry Best Practices                 | [View Certificate](https://drive.google.com/file/d/1Lwph4nQ9G8mE31DG_v0OqWSVtO7APDGq/view?usp=drive_link) |
+| 4            | 🤝 Internship Completion Certificate                  | [View Certificate](https://drive.google.com/your-certificate4-link) |
+
 
 ---
 
